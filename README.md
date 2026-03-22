@@ -168,3 +168,13 @@ Aplicamos los principios de **netiqueta profesional**:
 ## 7. Presentación final (resumen)
 
 El equipo demostró una organización efectiva, comunicación profesional y capacidad de adaptación ante imprevistos. Se logró consolidar el documento final del mini-proyecto dentro del tiempo establecido, cumpliendo con todos los puntos solicitados. La experiencia refuerza la importancia de la planificación, el uso adecuado de herramientas colaborativas y la aplicación de netiqueta en entornos virtuales.
+
+---
+
+## 8. Distribución de trabajo (contribuciones por integrante)
+
+| Integrante  | Secciones / Bloques elaborados |
+|------------------|-------------------------------|
+| **Wagner Maximiliano Ley Monroy** | Sección 1 (Organización del equipo), Sección 2 (Registro de comunicación – mensajes iniciales y coordinación), Sección 5 (Manejo de la situación simulada – liderazgo en fallback), revisión final del documento. |
+| **Daniel Estuardo Chicoj Bolaños** | Sección 2 (definición de tiempos en el chat), Sección 6 (Reflexión sobre trabajo remoto – redacción de dificultades y estrategias), apoyo en definición de funcionalidades. |
+| **Cesar Emmanuel Cipriano López** | Sección 3 (Lista de tareas completadas), Sección 4 (Documento final consolidado completo), Sección 7 (Presentación final – resumen), consolidación del documento en formato Markdown. |
